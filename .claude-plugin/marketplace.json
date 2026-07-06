@@ -1,0 +1,15 @@
+{
+  "name": "truong-skills",
+  "description": "Claude Code skills by Truong Vu — interactive code explainers and more.",
+  "owner": {
+    "name": "Truong Vu",
+    "email": "truongvu0911nd@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "explain-code-html",
+      "source": "./plugins/explain-code-html",
+      "description": "Generate rich, interactive HTML explanations of code."
+    }
+  ]
+}

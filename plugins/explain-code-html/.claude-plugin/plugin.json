@@ -1,0 +1,9 @@
+{
+  "name": "explain-code-html",
+  "description": "Generate rich, interactive, self-contained HTML pages that explain code — annotated syntax-highlighted source, collapsible sections, an interactive step-through with box tracks, and inline SVG diagrams.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Truong Vu",
+    "email": "truongvu0911nd@gmail.com"
+  }
+}
