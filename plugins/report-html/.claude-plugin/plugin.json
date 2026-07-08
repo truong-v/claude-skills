@@ -1,0 +1,9 @@
+{
+  "name": "report-html",
+  "description": "Turn a report, spec, findings write-up, research brief, analysis, memo, or postmortem into ONE rich, interactive, self-contained HTML page — executive summary, key-findings cards, sortable data tables, inline SVG charts, numbered citations with popovers, tabbed comparisons, status/severity badges, a sticky table of contents, and callouts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Truong Vu",
+    "email": "truongvu0911nd@gmail.com"
+  }
+}

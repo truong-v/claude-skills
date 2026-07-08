@@ -10,6 +10,11 @@
       "name": "explain-code-html",
       "source": "./plugins/explain-code-html",
       "description": "Generate rich, interactive HTML explanations of code."
+    },
+    {
+      "name": "report-html",
+      "source": "./plugins/report-html",
+      "description": "Turn reports, specs, findings, and research into rich, interactive HTML documents."
     }
   ]
 }
