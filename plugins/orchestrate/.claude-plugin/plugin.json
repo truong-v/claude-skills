@@ -1,0 +1,9 @@
+{
+  "name": "orchestrate",
+  "description": "Execute an already-approved plan in tech-lead orchestration mode: turn the plan into a delegation map across deep-reasoner / balanced-implementer / fast-worker, dispatch self-contained briefs in parallel waves, then verify and synthesize the results. Ships the three delegate agents it dispatches to.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Truong Vu",
+    "email": "truongvu0911nd@gmail.com"
+  }
+}

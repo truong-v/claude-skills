@@ -15,6 +15,11 @@
       "name": "report-html",
       "source": "./plugins/report-html",
       "description": "Turn reports, specs, findings, and research into rich, interactive HTML documents."
+    },
+    {
+      "name": "orchestrate",
+      "source": "./plugins/orchestrate",
+      "description": "Execute an approved plan in tech-lead mode: delegate to specialist subagents in parallel waves, then verify and synthesize."
     }
   ]
 }
